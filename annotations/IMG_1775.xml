@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Care tags</folder>
+	<filename>IMG_1775.jpg</filename>
+	<path>D:\Projects\durhack2022\MeanCleanWashingMachine\images\Care tags\IMG_1775.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wash at or below 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>2231</ymin>
+			<xmax>1071</xmax>
+			<ymax>2421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>do not bleach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1068</xmin>
+			<ymin>2272</ymin>
+			<xmax>1252</xmax>
+			<ymax>2447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>do not tumble dry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1258</xmin>
+			<ymin>2263</ymin>
+			<xmax>1432</xmax>
+			<ymax>2437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>iron medium temp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1445</xmin>
+			<ymin>2282</ymin>
+			<xmax>1678</xmax>
+			<ymax>2453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dry clean</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1668</xmin>
+			<ymin>2279</ymin>
+			<xmax>1839</xmax>
+			<ymax>2434</ymax>
+		</bndbox>
+	</object>
+</annotation>
